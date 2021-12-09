@@ -5,3 +5,5 @@
 "# Var8_Lab2_Bogachev_ISTB-20-4" 
 "# Var8_Lab2_Bogachev_ISTB-20-4" 
 "# LAB3_VAR10_BOGACHEV" 
+"# calc_var10_bogachev" 
+"# nasled_1var_bogachev_istb-20-4" 
